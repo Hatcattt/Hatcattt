@@ -10,6 +10,6 @@
 
 **Have a nice day :-)**
 
-<img src="https://github.com/Hatcattt/Hatcattt/blob/main/Carlos.jpg" width="20%" height="20%"><br>
+<img src="https://github.com/Hatcattt/Hatcattt/blob/main/Carlos.jpg" width="200px" height="269px"><br>
 
 *Yes I know.. it's the most beautiful cat in the world!*
