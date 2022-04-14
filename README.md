@@ -4,7 +4,7 @@
 - 👀 I'm interested in it in general, but especially coding
 - 🌱 I'm learning oop concept, networks, database, project management and many others
 - 💞️ I'm looking to collaborate on small projects, in my free time
-- 📫 How to reach me: mercier.prodev@gmail.com or here on GitHub
+- 📫 How to reach me: hatcattt.dev@gmail.com
 
 **I love this sentence:** " Always being positive is the key to happiness! "
 
