@@ -6,6 +6,12 @@
 - 💞️ I'm looking to collaborate on small projects, in my free time
 - 📫 How to reach me: hatcattt.dev@gmail.com
 
+___
+I am currently taking a course at the JetBrains Academy -> https://hyperskill.org/tracks/9
+<br>Currently working on a TicTacToe game made in Java swing in addition to my evening classes.
+<br>You can see the progress [here](https://github.com/Hatcattt/jetBrainExo/tree/master/src/dev/hatcattt/tictactoe).
+___
+
 **I love this sentence:** " Always being positive is the key to happiness! "
 
 **Have a nice day :-)**
