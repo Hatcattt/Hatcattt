@@ -9,7 +9,7 @@
 ___
 I am currently taking a course at the JetBrains Academy -> https://hyperskill.org/tracks/9 ([My profile](https://hyperskill.org/profile/319579422)).
 <br>Currently working on a TicTacToe game made in Java swing in addition to my evening classes.
-<br>You can see the progress [here](https://github.com/Hatcattt/TicTacToe/blob/dev/src/main/java/dev/hatcattt/tictactoe/TicTacToe.java).
+<br>You can see the progress [here](https://github.com/Hatcattt/TicTacToe).
 ___
 
 **I love this sentence:** " Always being positive is the key to happiness! "
